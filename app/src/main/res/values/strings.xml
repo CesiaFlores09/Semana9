@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Semana9</string>
+    <string name="nombre">Nombre</string>
+    <string name="direccion">Direccion</string>
+    <string name="telefono">Telefono</string>
+    <string name="email">Email</string>
+    <string name="Guardar">Guardar</string>
+    <string name="salir">Salir</string>
+</resources>
